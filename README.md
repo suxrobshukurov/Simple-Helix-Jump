@@ -1,13 +1,13 @@
 # Simple-Helix-Jump
-A simple version of the Helix Jump game. 
-Implemented:
+## A simple version of the Helix Jump game. 
+### Implemented:
 	Spam ball, tower and platform.
 	Destruction of the platform after the flight of the ball.
 	The camera is tied to the ball.
 
 
-Простая версия игры Helix Jump. 
-Реализовано:
-	Спам шарика, башни и платформы.
-	Разрушение платформы после пролета шарика.
-	Камера привязана к шарику.
+## РџСЂРѕСЃС‚Р°СЏ РІРµСЂСЃРёСЏ РёРіСЂС‹ Helix Jump. 
+### Р РµР°Р»РёР·РѕРІР°РЅРѕ:
+	РЎРїР°Рј С€Р°СЂРёРєР°, Р±Р°С€РЅРё Рё РїР»Р°С‚С„РѕСЂРјС‹.
+	Р Р°Р·СЂСѓС€РµРЅРёРµ РїР»Р°С‚С„РѕСЂРјС‹ РїРѕСЃР»Рµ РїСЂРѕР»РµС‚Р° С€Р°СЂРёРєР°.
+	РљР°РјРµСЂР° РїСЂРёРІСЏР·Р°РЅР° Рє С€Р°СЂРёРєСѓ.
